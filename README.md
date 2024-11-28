@@ -1,6 +1,6 @@
-#Sistema de correção automática de atividades de alunos.
+# Sistema de correção automática de atividades de alunos.
 
-##Utilização
+## Utilização
 1. Clonar o repositório
 2. Criar a chave de API (https://aistudio.google.com/u/2/apikey)
 3. Copiar o arquivo env-sample para a raiz do projeto
