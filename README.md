@@ -10,10 +10,10 @@
 7. Criar um documento enunciado.txt onde deverá ser colada a instrução da tarefa que foi passada ao aluno.
 8. Rodar o programa
 
-"""bash
+```console
 git clone https://github.com/clebersfonseca/coretorAtividades.git
 mv contrib/env-sample .env
 mkdir tarefas
 touch enunciado.txt
 python corrigir.py
-"""
+```
