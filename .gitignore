@@ -1,0 +1,6 @@
+.venv
+.env
+/tarefas/
+resultado_correcao.txt
+enunciado.txt
+.DS_Store
